@@ -1,0 +1,13 @@
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\controlColegio.DAL.dll.config
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\controlColegio.DAL.dll
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\controlColegio.DAL.pdb
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\controlColegio.MODEL.dll
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\controlColegio.MODEL.pdb
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\obj\Debug\controlColegio.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\obj\Debug\controlColegio.DAL.dll
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\obj\Debug\controlColegio.DAL.pdb
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.DAL\bin\Debug\MySql.Data.Entity.EF6.dll

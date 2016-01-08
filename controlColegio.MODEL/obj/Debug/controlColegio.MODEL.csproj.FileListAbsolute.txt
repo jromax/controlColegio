@@ -1,0 +1,5 @@
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\controlColegio.MODEL.dll
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\controlColegio.MODEL.pdb
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.dll
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.pdb
