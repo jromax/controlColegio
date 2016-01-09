@@ -19,3 +19,5 @@ C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlC
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio\bin\Debug\controlColegio.MODEL.pdb
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio\obj\Debug\controlColegio.General.InicioSesionFrm.resources
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio\obj\Debug\controlColegio.MdiMain.resources
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio\obj\Debug\controlColegio.General.GenTiposFrm.resources
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio\obj\Debug\controlColegio.exe.licenses

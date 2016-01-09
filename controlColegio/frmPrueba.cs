@@ -26,8 +26,7 @@ namespace controlColegio
 
         private void frmPrueba_Load(object sender, EventArgs e)
         {
-            tipos.InicializarBD();
-            
+            tipos.InicializarBD();            
         }
 
         private void button1_Click(object sender, EventArgs e)

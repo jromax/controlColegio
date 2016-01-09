@@ -8,7 +8,7 @@ namespace controlColegio.BL.General
     public  class GenTiposEntidad : DbContext
     {
         public GenTiposEntidad()
-            : base("name=GenTiposEntidad")
+            : base("name=conexionBD")
         {
         }
 
