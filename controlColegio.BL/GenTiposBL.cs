@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using controlColegio.MODEL;
-using controlColegio.DAL;
+//using controlColegio.MODEL;
 using System.Data.Entity;
+using controlColegio.BL.General;
+
 namespace controlColegio.BL
 {
     public class GenTiposBL
@@ -15,17 +16,27 @@ namespace controlColegio.BL
         }
         public void Agregar()
         {
-            GenTiposModel model = new GenTiposModel();
-            model.Id = 1;
-            model.Nombre="Sexo";
-            model.Atributo1 = "M";
-            var tipo = new GenTiposDAL();
-            tipo.Tipo.Add(model);
-            tipo.SaveChanges();
-            var listaTipos = from t in tipo.Tipo
+            //GenTiposModel model = new GenTiposModel();
+            //GenTiposE
+            gen_tipos model = new gen_tipos();
+            model.id = 3;
+            model.tipo ="Sexo";
+            model.nombre ="Femenino";
+            model.sigla = "F";
+            model.atributo1 = "M";            
+            model.estado = "1";
+            GenTiposEntidad ent = new GenTiposEntidad();
+            ent.gen_tipos.Add(model);            
+            ent.SaveChanges();
+            //var tipo = new GenTiposDAL();
+            //tipo.Tipo.Add(model);
+            //tipo.SaveChanges();
+
+            var listaTipos = from t in ent.gen_tipos
                              select t;
-            var i=0;
-            //int i = listaTipos.Count;
+            
+            //return listaTipos.Count
+            //var i= Convert.ToInt16(listaTipos.Count);
         }
     }
 }
