@@ -7,6 +7,7 @@ using System.Data.Entity;
 using controlColegio.DATOS.DAL.General;
 //using controlColegio.DATOS.BL.General;
 using controlColegio.MODEL.General;
+using System.Dynamic;
 namespace controlColegio.DATOS.BL.General
 {
     public class GenTiposBL
@@ -17,7 +18,7 @@ namespace controlColegio.DATOS.BL.General
         public dynamic Agregar( GenTiposModel model)
         {
             GenTiposEntidad ent = new GenTiposEntidad();
-            dynamic respuesta = false; respuesta.resultado = true;
+            dynamic respuesta = new ExpandoObject();  respuesta.resultado = true;
             ent.gen_tipos.Add(model);            
             try
             {

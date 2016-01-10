@@ -160,10 +160,11 @@
             // 
             this.txtNuevoTipoDato.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNuevoTipoDato.Location = new System.Drawing.Point(115, 37);
-            this.txtNuevoTipoDato.MaxLength = 20;
+            this.txtNuevoTipoDato.MaxLength = 45;
             this.txtNuevoTipoDato.Name = "txtNuevoTipoDato";
             this.txtNuevoTipoDato.Size = new System.Drawing.Size(231, 26);
             this.txtNuevoTipoDato.TabIndex = 19;
+            this.txtNuevoTipoDato.Text = "tipo_documento";
             // 
             // cbTipoDato
             // 
@@ -189,10 +190,11 @@
             // 
             this.txtNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNombre.Location = new System.Drawing.Point(502, 37);
-            this.txtNombre.MaxLength = 20;
+            this.txtNombre.MaxLength = 45;
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(231, 26);
             this.txtNombre.TabIndex = 22;
+            this.txtNombre.Text = "Número Único Ident. Personal";
             // 
             // label5
             // 
@@ -208,7 +210,7 @@
             // 
             this.txtSigla.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSigla.Location = new System.Drawing.Point(115, 79);
-            this.txtSigla.MaxLength = 20;
+            this.txtSigla.MaxLength = 25;
             this.txtSigla.Name = "txtSigla";
             this.txtSigla.Size = new System.Drawing.Size(231, 26);
             this.txtSigla.TabIndex = 24;
@@ -227,7 +229,7 @@
             // 
             this.txtAtributo1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtAtributo1.Location = new System.Drawing.Point(502, 79);
-            this.txtAtributo1.MaxLength = 20;
+            this.txtAtributo1.MaxLength = 45;
             this.txtAtributo1.Name = "txtAtributo1";
             this.txtAtributo1.Size = new System.Drawing.Size(231, 26);
             this.txtAtributo1.TabIndex = 26;
