@@ -50,6 +50,7 @@
             this.btnEditarNuevo = new System.Windows.Forms.Button();
             this.btnAdicionar = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.txtId = new System.Windows.Forms.TextBox();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
@@ -93,6 +94,7 @@
             // 
             // splitContainer1.Panel1
             // 
+            this.splitContainer1.Panel1.Controls.Add(this.txtId);
             this.splitContainer1.Panel1.Controls.Add(this.panel2);
             this.splitContainer1.Panel1.Controls.Add(this.chbEstado);
             this.splitContainer1.Panel1.Controls.Add(this.label6);
@@ -233,6 +235,8 @@
             // chbEstado
             // 
             this.chbEstado.AutoSize = true;
+            this.chbEstado.Checked = true;
+            this.chbEstado.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chbEstado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chbEstado.Location = new System.Drawing.Point(115, 111);
             this.chbEstado.Name = "chbEstado";
@@ -318,6 +322,15 @@
             this.dataGridView1.Size = new System.Drawing.Size(741, 265);
             this.dataGridView1.TabIndex = 0;
             // 
+            // txtId
+            // 
+            this.txtId.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtId.Location = new System.Drawing.Point(376, 111);
+            this.txtId.MaxLength = 20;
+            this.txtId.Name = "txtId";
+            this.txtId.Size = new System.Drawing.Size(231, 26);
+            this.txtId.TabIndex = 29;
+            // 
             // GenTiposFrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -363,5 +376,6 @@
         private System.Windows.Forms.Button btnEditarNuevo;
         private System.Windows.Forms.Button btnCancelar;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.TextBox txtId;
     }
 }

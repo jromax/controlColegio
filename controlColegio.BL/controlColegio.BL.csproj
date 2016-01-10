@@ -45,11 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="General\Class1.cs" />
-    <Compile Include="General\GenTiposEntidad.cs" />
-    <Compile Include="General\gen_tipos.cs" />
-    <Compile Include="General\UsuarioEntidad.cs" />
-    <Compile Include="General\UsuariosBL.cs" />
+    <Compile Include="BL\General\Class1.cs" />
+    <Compile Include="DAL\General\GenTiposEntidad.cs" />
+    <Compile Include="BL\General\gen_tipos.cs" />
+    <Compile Include="DAL\General\UsuarioEntidad.cs" />
+    <Compile Include="BL\General\UsuariosBL.cs" />
     <Compile Include="GenTiposBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

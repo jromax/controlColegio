@@ -1,12 +1,12 @@
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\EntityFramework.xml
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\controlColegio.MODEL.dll.config
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\controlColegio.MODEL.dll
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\controlColegio.MODEL.pdb
-C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.dll
-C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.pdb
-C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.csprojResolveAssemblyReference.cache
-C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\controlColegio.MODEL.dll.config
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\EntityFramework.dll
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\MySql.Data.dll
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\mysql.data.entity.EF6.dll
-C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\EntityFramework.xml
 C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.dll
+C:\Users\Secretaria_ cel\OneDrive\Carlos\Control Colegio\controlColegio\controlColegio.MODEL\obj\Debug\controlColegio.MODEL.pdb

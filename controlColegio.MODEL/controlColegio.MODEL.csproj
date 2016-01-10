@@ -56,9 +56,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GenTiposModel.cs" />
+    <Compile Include="General\GenTiposModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UsuarioModel.cs" />
+    <Compile Include="General\UsuarioModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

@@ -1,5 +1,6 @@
-﻿using controlColegio.BL;
-using controlColegio.BL.General;
+﻿//using controlColegio.BL;
+//using controlColegio.BL.General;
+//using controlColegio.
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,28 +16,28 @@ namespace controlColegio
 {
     public partial class frmPrueba : Form
     {
-        GenTiposBL tipos { get; set; }
-        UsuariosBL usuarios { get; set; }
+        //GenTiposBL tipos { get; set; }
+        ////UsuariosBL usuarios { get; set; }
         public frmPrueba()
         {
             InitializeComponent();
-            tipos = new GenTiposBL();
-            usuarios = new UsuariosBL();
+            //tipos = new GenTiposBL();
+            //usuarios = new UsuariosBL();
         }
 
         private void frmPrueba_Load(object sender, EventArgs e)
         {
-            tipos.InicializarBD();            
+            //tipos.InicializarBD();            
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            tipos.Agregar();
+            //tipos.Agregar();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            usuarios.Agregar();
+            //usuarios.Agregar();
             MessageBox.Show("Usuario registrados satisfactoriamente");
         }
     }
