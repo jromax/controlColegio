@@ -8,12 +8,23 @@ using controlColegio.DATOS.DAL.General;
 //using controlColegio.DATOS.BL.General;
 using controlColegio.MODEL.General;
 using System.Dynamic;
+using System.Data;
 namespace controlColegio.DATOS.BL.General
 {
     public class GenTiposBL
     {
+        
         public void InicializarBD(){
             //Database.SetInitializer<GenTiposDAL>(new CreateDatabaseIfNotExists<GenTiposDAL>());
+        }
+        public dynamic Obtener()
+        {
+           GenTiposEntidad ent = new GenTiposEntidad();
+            //var listaTipos = from t in ent.gen_tipos
+            //                select t;
+             var registers = (from t in ent.gen_tipos select t).ToList();
+             return registers;
+            //return listaTipos
         }
         public dynamic Agregar( GenTiposModel model)
         {
@@ -30,23 +41,7 @@ namespace controlColegio.DATOS.BL.General
                 respuesta.excepcion = ex;                
             }
             return respuesta;
-            //var tipo = new GenTiposDAL();
-            //tipo.Tipo.Add(model);
-            //tipo.SaveChanges();
-
-            //gen_tipos model = new gen_tipos();
-            //model.id = 3;
-            //model.tipo ="Sexo";
-            //model.nombre ="Femenino";
-            //model.sigla = "F";
-            //model.atributo1 = "M";            
-            //model.estado = "1";
-            //GenTiposEntidad ent = new GenTiposEntidad();
-            //ent.gen_tipos.Add(model);
-            //ent.SaveChanges();
-            //var tipo = new GenTiposDAL();
-            //tipo.Tipo.Add(model);
-            //tipo.SaveChanges();
+           
 
             //var listaTipos = from t in ent.gen_tipos
             //                 select t;

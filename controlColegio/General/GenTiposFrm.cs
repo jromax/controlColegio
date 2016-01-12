@@ -40,5 +40,10 @@ namespace controlColegio.General
             else
                 MessageBox.Show("Error al registrar dato","Registro erroneo",MessageBoxButtons.RetryCancel,MessageBoxIcon.Error);
         }
+
+        private void GenTiposFrm_Load(object sender, EventArgs e)
+        {
+            dgv.DataSource= tipoBL.Obtener();
+        }        
     }
 }
